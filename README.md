@@ -1,11 +1,12 @@
 # Login-Register-system
 Create your account, or login if you have one! 
+This project is regarding a register/login system. It takes in 2 files [usernames.txt, passwords.txt] and makes pairs in a HashMap<String, String>.
 
 I have replaced multiple repeated lines of code with functions, as you may notice with the buttons and adding the accounts in the accounts Hashmap. This is currently nothing
 but a small experiment of mine.
 
 [The functions I mentioned above are the following: ]
-
+```
 public boolean containsSpaces(String str) {
       for (int i = 0; i < str.length(); ++i) {
          if (Character.isWhitespace(str.charAt(i))) {
@@ -38,12 +39,12 @@ public boolean containsSpaces(String str) {
             }
             usernameScan.close();
             passwordScan.close();
-
          } catch (FileNotFoundException e1) {
             e1.printStackTrace();
          }
       }
       addedAccounts++;
    }
+```
 
 If you want to use it for logins only you can remove the register function and make a new JPanel of your own once you login, a new program perhaps..
