@@ -1,4 +1,3 @@
-<img src = "https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></img>
 # Login-Register-system
 Create your account, or login if you have one! 
 This project is regarding a register/login system. It takes in 2 files [usernames.txt, passwords.txt] and makes pairs in a HashMap<String, String>.
