@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 # Login-Register-system
 Create your account, or login if you have one! 
 This project is regarding a register/login system. It takes in 2 files [usernames.txt, passwords.txt] and makes pairs in a HashMap<String, String>.
