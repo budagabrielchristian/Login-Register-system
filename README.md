@@ -1,4 +1,4 @@
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> </img>
+<img src = "https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}"> </img>
 <img src = "https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></img>
 # Login-Register-system
 Create your account, or login if you have one! 
