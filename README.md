@@ -1,4 +1,3 @@
-<img src = "https://badge-size.herokuapp.com/{username}/{repo}/{branch}/{filename}"> </img>
 <img src = "https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></img>
 # Login-Register-system
 Create your account, or login if you have one! 
